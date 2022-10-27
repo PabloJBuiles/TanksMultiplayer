@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://tanksmultiplayer-f4b2e-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">832429996614</string>
+  <string name="google_storage_bucket" translatable="false">tanksmultiplayer-f4b2e.appspot.com</string>
+  <string name="project_id" translatable="false">tanksmultiplayer-f4b2e</string>
+  <string name="google_api_key" translatable="false">AIzaSyCT4VlGIc508LUYca1txOCfo7pYqeSsQd8</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCT4VlGIc508LUYca1txOCfo7pYqeSsQd8</string>
+  <string name="google_app_id" translatable="false">1:832429996614:android:f1fba93d9554e58b8da847</string>
+  <string name="default_web_client_id" translatable="false">832429996614-db5qnrp69unff8nlvdf512s0tug3euc2.apps.googleusercontent.com</string>
+</resources>
